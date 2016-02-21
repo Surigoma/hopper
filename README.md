@@ -12,4 +12,4 @@ TerryBoy a.k.a 赤と髭 - [Twitter](https://twitter.com/akatohige)
 
 ## SS
 画像は開発中のものです  
-![SS1]( http://github.com/surigoma/hopper/ss/1.png "SS1")
+![SS1](https://raw.githubusercontent.com/Surigoma/hopper/master/ss/1.PNG "SS1")
