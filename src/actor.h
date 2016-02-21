@@ -68,3 +68,24 @@ public:
 	{
 	}
 };
+
+class enemy : public actor
+{
+public:
+	enemy(const String& _tag, const Vec2& _position = Vec2::Zero, const Vec2& _velocity = Vec2::Zero)
+		: actor(_tag, _position, _velocity, 15.0)
+	{
+	}
+
+	virtual ~enemy() = default;
+
+	void draw() const
+	{
+		get_bounding_object().draw(Palette::Green);
+	}
+
+	void collide_event()
+	{
+		m_has_killed = true;
+	}
+};

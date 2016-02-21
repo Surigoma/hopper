@@ -9,6 +9,7 @@
 
 ## 開発者
 TerryBoy a.k.a 赤と髭 - [Twitter](https://twitter.com/akatohige)
+すりごま - [Twitter](https://twitter.com/surigomaxxxxxxx)
 
 ## SS
 画像は開発中のものです  
